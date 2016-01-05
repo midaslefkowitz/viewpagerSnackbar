@@ -1,5 +1,4 @@
 # viewpagerSnackbar
-A version of androids Snackbar which works in a viewpager
  
 Swiping to dismiss a Snackbar in Viewpager doesn't work because the viewpager intercepts the touch events. See, for example, [this stackoverflow question](http://stackoverflow.com/questions/33502094/viewpager-intercepts-snackbar-dismiss).
 
